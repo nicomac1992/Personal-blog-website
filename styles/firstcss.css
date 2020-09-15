@@ -1,0 +1,46 @@
+    ul {
+        color: white;
+        display: flex;
+    }
+    
+    p {
+        color: white;
+    }
+    
+    .footer {
+        background-color: black;
+        color: white;
+    }
+    
+    .firstcard {
+        color: blue;
+        text-align: center;
+        margin: 0 auto;
+        border: 3px solid white;
+    }
+    
+    .secondcard {
+        color: crimson;
+        text-align: center;
+        margin: 0 auto;
+        border: 3px solid white;
+    }
+    
+    .box {
+        width: 250px;
+        height: 150px;
+        border: 1px solid yellow
+    }
+    
+    .postpagetitle {
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .socialmedia {
+        font-size: 20px;
+    }
+    
+    .socialmedia:hover {
+        color: red;
+    }
